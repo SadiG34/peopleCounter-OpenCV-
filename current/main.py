@@ -27,7 +27,7 @@ data = response.json()
 
 print(data)
 
-SPREADSHEET_ID = "1BJpwNWvNUc1jINGiOZlUWsCzxdYzuP6aEglwjp-m5Bc"
+SPREADSHEET_ID = ""
 
 def main():
     credentials = None

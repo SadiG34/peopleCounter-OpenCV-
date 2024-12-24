@@ -14,7 +14,7 @@ creds = Credentials.from_service_account_file('credentials.json', scopes=scopes)
 client = gspread.authorize(creds)
 
 # Открываем таблицу по ID
-sheet_id = '1BJpwNWvNUc1jINGiOZlUWsCzxdYzuP6aEglwjp-m5Bc'
+sheet_id = ''
 spreadsheet = client.open_by_key(sheet_id)
 
 # Получаем вторую вкладку (лист)

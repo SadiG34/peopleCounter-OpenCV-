@@ -1,0 +1,76 @@
+
+Лицензионное соглашение для People Counter App
+
+ВНИМАТЕЛЬНО ПРОЧИТАЙТЕ ДАННОЕ ЛИЦЕНЗИОННОЕ СОГЛАШЕНИЕ ПЕРЕД ИСПОЛЬЗОВАНИЕМ ДАННОГО ПРОГРАММНОГО ОБЕСПЕЧЕНИЯ. Данное Лицензионное соглашение является юридически обязывающим соглашением между вами (далее именуемым "Лицензиат") и Ваше имя (далее именуемым "Лицензиар"). Данное Лицензионное соглашение регулирует использование вами программного обеспечения People Counter App (далее именуемого "Программное обеспечение"). Устанавливая, копируя или иным образом используя Программное обеспечение, вы соглашаетесь соблюдать условия настоящего Лицензионного соглашения. Если вы не согласны с условиями настоящего Лицензионного соглашения, вы не имеете права устанавливать, копировать или иным образом использовать Программное обеспечение.
+
+1. Предоставление лицензии
+
+Лицензиар настоящим предоставляет Лицензиату неисключительную, непередаваемую, ограниченную лицензию на установку и использование Программного обеспечения на одном компьютере. Лицензиат может использовать Программное обеспечение только в соответствии с условиями настоящего Лицензионного соглашения.
+
+2. Ограничения
+
+Лицензиат не имеет права:
+
+ Распространять, продавать, сдавать в аренду, передавать или иным образом передавать Программное обеспечение третьим лицам.
+ Создавать производные работы на основе Программного обеспечения.
+ Декомпилировать, дизассемблировать или иным образом пытаться извлечь исходный код Программного обеспечения.
+ Удалять или изменять любые уведомления об авторских правах или товарных знаках на Программном обеспечении.
+
+3. Авторские права
+
+Программное обеспечение защищено авторским правом и другими законами об интеллектуальной собственности. Авторские права на Программное обеспечение принадлежат Лицензиару.
+
+4. Ограничение ответственности
+
+Ни при каких обстоятельствах Лицензиар не несет ответственности перед Лицензиатом за любой ущерб, включая, помимо прочего, прямой, косвенный, случайный, специальный или косвенный ущерб, возникший в результате использования или невозможности использования Программного обеспечения.
+
+5. Расторжение
+
+Лицензиар может расторгнуть настоящее Лицензионное соглашение немедленно, если Лицензиат нарушит любое из его условий. При расторжении настоящего Лицензионного соглашения Лицензиат должен немедленно прекратить использование Программного обеспечения и удалить все его копии.
+
+6. Применимое право
+
+Настоящее Лицензионное соглашение регулируется и толкуется в соответствии с законодательством Вашей страны.
+
+7. Общее
+
+Настоящее Лицензионное соглашение представляет собой полное соглашение между Лицензиаром и Лицензиатом в отношении Программного обеспечения и заменяет все предыдущие соглашения и договоренности между ними. Никакие изменения или дополнения к настоящему Лицензионному соглашению не будут иметь силы, если они не сделаны в письменной форме и не подписаны как Лицензиаром, так и Лицензиатом.
+====================================================================================================================================================
+
+====================================================================================================================================================
+License Agreement for People Counter App
+
+PLEASE READ THIS LICENSE AGREEMENT CAREFULLY BEFORE USING THIS SOFTWARE. This License Agreement is a legally binding agreement between you (hereinafter referred to as “Licensee”) and your name (hereinafter referred to as “Licensor”). This License Agreement governs your use of the People Counter App software (hereinafter referred to as the “Software”). By installing, copying or otherwise using the Software, you agree to be bound by the terms of this License Agreement. If you do not agree to the terms of this License Agreement, you may not install, copy or otherwise use the Software.
+
+1. Grant of License
+
+Licensor hereby grants Licensee a non-exclusive, non-transferable, limited license to install and use the Software on a single computer. Licensee may use the Software only in accordance with the terms of this License Agreement.
+
+2. Restrictions
+
+Licensee may not:
+
+ Distribute, sell, rent, lease, transfer or otherwise assign the Software to third parties.
+ Create derivative works based on the Software.
+ Decompile, disassemble or otherwise attempt to extract the source code of the Software.
+ Remove or alter any copyright or trademark notices on the Software.
+
+3. Copyright
+
+The Software is protected by copyright and other intellectual property laws. The copyright in the Software is owned by Licensor.
+
+4. Limitation of Liability
+
+In no event shall Licensor be liable to Licensee for any damages, including but not limited to direct, indirect, incidental, special or consequential damages, arising out of the use of or inability to use the Software.
+
+5. Termination
+
+Licensor may terminate this License Agreement immediately if Licensee breaches any of its terms. Upon termination of this License Agreement, Licensee shall immediately cease using the Software and delete all copies of the Software.
+
+6. Applicable Law
+
+This License Agreement shall be governed by and construed in accordance with the laws of your country.
+
+7. General
+
+This License Agreement constitutes the entire agreement between Licensor and Licensee with respect to the Software and supersedes all prior agreements and understandings between them. No modification or amendment to this License Agreement will be effective unless made in writing and signed by both Licensor and Licensee.
